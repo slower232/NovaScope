@@ -1,0 +1,13 @@
+streamlit>=1.40,<2
+sqlalchemy>=2.0,<3
+pandas>=2.1
+numpy>=1.26
+scipy>=1.11
+plotly>=5.20
+folium>=0.17
+streamlit-folium>=0.22
+requests>=2.31
+reportlab>=4.0
+pytest>=8.0
+# Opcionales (fase siguiente: rasters NASA HLS/SMAP)
+# geopandas, shapely, rasterio, xarray

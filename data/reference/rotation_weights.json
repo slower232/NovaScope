@@ -1,0 +1,10 @@
+{
+ "_note": "Pesos configurables del optimizador (suman 1 tras normalizar).",
+ "weights": {
+  "climate": 0.25,
+  "water": 0.25,
+  "soil_cover": 0.15,
+  "yield_proxy": 0.15,
+  "climate_risk": 0.2
+ }
+}
